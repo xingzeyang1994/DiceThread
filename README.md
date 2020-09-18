@@ -1,0 +1,2 @@
+# DiceThread
+Qt Thread Practice
